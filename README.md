@@ -6,9 +6,7 @@
 [![Build](https://github.com/solomonshalom/windows-portfolio/actions/workflows/deploy.yml/badge.svg?branch=master)](https://github.com/solomonshalom/windows-portfolio/actions/workflows/deploy.yml)
 ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/windows-portfolio/status/master/api/win11-react/uptime.json)
 [![translate](https://badges.crowdin.net/windows-portfolio/localized.svg)](https://translate.andrewstech.me/)
-
-[!["Buy Me A Coffee"]([![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R54FIIG))](https://ko-fi.com/solomonlijo)
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R54FIIG)
 Hello! Welcome to my newly updated portfolio built with React, CSS, Tailwind and Good'Ol Javascript. 
 
 ## Notice
