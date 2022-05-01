@@ -116,11 +116,6 @@ If you have one of the latest windows builds then you can enter the command belo
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FSolomon Shalom Lijo%2Fwindows11%2F&project-name=windows11&repo-name=windows11-react&demo-title=Windows%2011%20Demo&demo-description=Static&demo-url=https%3A%2F%2Fwin11.blueedge.me%2F)
 
-## Contributors
-<a href="https://github.com/solomonshalom/windows-portfolio/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Solomon Shalom Lijo/windows-portfolio" />
-</a>
-
 ### Known Issues
 
 - Blur not working in Firefox browser.
