@@ -50,7 +50,7 @@ function ErrorFallback({error, resetErrorBoundary}) {
               </div>
               <div id="stopcode">
                 <h4>For more information about this issue and possible fixes, visit
-                  <br /> <a href="https://github.com/Solomon Shalom Lijo/windows-porfolio/issues">https://github.com/Solomon Shalom Lijo/windows-porfolio/issues</a> </h4>
+                  <br /> <a href="https://github.com/solomonshalom/windows-portfolio/issues">https://github.com/solomonshalom/windows-portfolio/issues</a> </h4>
                 <h5>If you call a support person, give them this info:
                   <br />Stop Code: {error.message}</h5>
 				  <button onClick={resetErrorBoundary}>Try again</button>

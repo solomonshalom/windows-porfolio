@@ -13,11 +13,11 @@ LABEL org.opencontainers.image.authors blueedge
 RUN npm install -g serve
 
 # add app (add .dockerignore to remove useless files from the image)
-RUN wget https://github.com/Solomon Shalom Lijo/windows-porfolio/archive/refs/heads/gh-pages.zip
+RUN wget https://github.com/solomonshalom/windows-portfolio/archive/refs/heads/gh-pages.zip
 RUN unzip gh-pages.zip
 
 # expose port
 EXPOSE 3000
 
 # start app
-ENTRYPOINT ["serve", "/usr/src/windows11/windows-porfolio-gh-pages", "-p", "3000", "-d", "--cors"]
+ENTRYPOINT ["serve", "/usr/src/windows11/windows-portfolio-gh-pages", "-p", "3000", "-d", "--cors"]

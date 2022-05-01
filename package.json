@@ -1,7 +1,7 @@
 {
-  "name": "windows-porfolio",
+  "name": "windows-portfolio",
   "description": "Win11 made in React",
-  "repository": "https://github.com/Solomon Shalom Lijo/windows-porfolio",
+  "repository": "https://github.com/solomonshalom/windows-portfolio",
   "version": "0.1.1",
   "private": true,
   "dependencies": {

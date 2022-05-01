@@ -4,14 +4,14 @@
 
 Before you begin:
 - This site is powered ⚡ by React.js
-- Check out the [existing issues](https://github.com/Solomon Shalom Lijo/windows-porfolio/issues), [pull requests](https://github.com/Solomon Shalom Lijo/windows-porfolio/pulls) and [discussions](https://github.com/Solomon Shalom Lijo/windows-porfolio/discussions).
-- Check the [already existing and upcoming features](https://github.com/Solomon Shalom Lijo/windows-porfolio#features).
+- Check out the [existing issues](https://github.com/solomonshalom/windows-portfolio/issues), [pull requests](https://github.com/solomonshalom/windows-portfolio/pulls) and [discussions](https://github.com/solomonshalom/windows-portfolio/discussions).
+- Check the [already existing and upcoming features](https://github.com/solomonshalom/windows-portfolio#features).
 
-Before you make your changes, check to see if an [issue exists](https://github.com/Solomon Shalom Lijo/windows-porfolio/issues) already for the change you want to make.
+Before you make your changes, check to see if an [issue exists](https://github.com/solomonshalom/windows-portfolio/issues) already for the change you want to make.
 
 ### Don't see your issue? Open one
 
-If you spot something new, [open an issue](https://github.com/Solomon Shalom Lijo/windows-porfolio/issues/new/choose). We'll use the issue to have a conversation 🗣 about the problem you want to fix.
+If you spot something new, [open an issue](https://github.com/solomonshalom/windows-portfolio/issues/new/choose). We'll use the issue to have a conversation 🗣 about the problem you want to fix.
 
 ### Ready to make a change? Fork the repo
 
@@ -22,11 +22,11 @@ If you spot something new, [open an issue](https://github.com/Solomon Shalom Lij
 - Fork with [GitHub Codespaces](https://github.com/features/codespaces):
 
 ### Open a pull request
-When you're done making changes and you'd like to propose them for review, use the [pull request tab](https://github.com/Solomon Shalom Lijo/windows-porfolio/pulls) to open your PR.
+When you're done making changes and you'd like to propose them for review, use the [pull request tab](https://github.com/solomonshalom/windows-portfolio/pulls) to open your PR.
 
 Once you submit your PR, we will review it with you. The first thing you're going to want to do is a self review 🧾.
 
 ### Your PR is merged!
 Congratulations 🎊!
 
-Once your PR is merged, you will be proudly listed as a contributor in the [contributor chart](https://github.com/Solomon Shalom Lijo/windows-porfolio/graphs/contributors).
+Once your PR is merged, you will be proudly listed as a contributor in the [contributor chart](https://github.com/solomonshalom/windows-portfolio/graphs/contributors).

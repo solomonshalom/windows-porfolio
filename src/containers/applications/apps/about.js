@@ -33,15 +33,15 @@ export const AboutWin = () => {
         <p>{t('about.opensource')}</p>
         <p>
           {t('about.licensed')}&nbsp;
-          <a target="_blank" href="https://github.com/Solomon Shalom Lijo/windows-porfolio/blob/master/LICENSE" rel="noreferrer">
+          <a target="_blank" href="https://github.com/solomonshalom/windows-portfolio/blob/master/LICENSE" rel="noreferrer">
             {t('about.Creative-Commons')}
           </a>
           .
         </p>
         <p className="pl-4">
           {t('about.contact')} :&nbsp;
-          <a target="_blank" href="mailto:blue@windows-porfolio.com" rel="noreferrer">
-            blue@windows-porfolio.com
+          <a target="_blank" href="mailto:solomonshalom.lijo@gmail.com" rel="noreferrer">
+          solomonshalom.lijo@gmail.com
           </a>
         </p>
 

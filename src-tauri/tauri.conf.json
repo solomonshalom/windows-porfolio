@@ -1,6 +1,6 @@
 {
   "package": {
-    "productName": "windows-porfolio",
+    "productName": "windows-portfolio",
     "version": "0.2.7"
   },
   "build": {
@@ -13,7 +13,7 @@
     "bundle": {
       "active": true,
       "targets": "all",
-      "identifier": "com.Solomon Shalom Lijo.windows-porfolio",
+      "identifier": "com.Solomon Shalom Lijo.windows-portfolio",
       "icon": [
         "icons/icon.ico"
       ],
@@ -54,7 +54,7 @@
     },
     "windows": [
       {
-        "title": "windows-porfolio",
+        "title": "windows-portfolio",
         "width": 800,
         "height": 600,
         "resizable": true,

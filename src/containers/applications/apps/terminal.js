@@ -172,7 +172,7 @@ export const WnTerminal = ()=>{
     }else if (type=="systeminfo") {
       var dvInfo = [
         "Host Name:                 BLUE",
-        "OS Name:                   windows-porfolio Dummys Edition",
+        "OS Name:                   windows-portfolio Dummys Edition",
         "OS Version:                10.0.22000 N/A Build 22000.51",
         "OS Manufacturer:           ",
         "OS Configuration:          Standalone Workstation",

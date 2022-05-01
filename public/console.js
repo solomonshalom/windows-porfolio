@@ -1,4 +1,4 @@
-console.log('%cwindows-porfolio is a project by Solomon Shalom Lijo and ascended by andrewstech. If you wish to help out with this project, visit https://github.com/Solomon Shalom Lijo/windows-porfolio', 'color: lightblue; font-size: x-large');
+console.log('%cwindows-portfolio is a project by Solomon Shalom Lijo and ascended by andrewstech. If you wish to help out with this project, visit https://github.com/solomonshalom/windows-portfolio', 'color: lightblue; font-size: x-large');
 
 function removeWarning() {
   document.body.dataset.force = true;
