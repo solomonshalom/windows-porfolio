@@ -46,7 +46,7 @@ var apps = [{
   icon: 'buyme',
   type: 'app',
   action: 'EXTERNAL',
-  payload: 'https://www.buymeacoffee.com/blueedgetechno'
+  payload: 'https://www.buymeacoffee.com/Solomon Shalom Lijo'
 },
 {
   name: 'Store',
@@ -100,7 +100,7 @@ var apps = [{
   icon: 'getstarted',
   type: 'app',
   action: 'EXTERNAL',
-  payload: 'https://win11react-docs.andrewstech.me/'
+  payload: 'https://windows-porfolio-docs.andrewstech.me/'
 },
 {
   name: 'Groove Music',
@@ -112,7 +112,7 @@ var apps = [{
   icon: 'help',
   type: 'app',
   action: 'EXTERNAL',
-  payload: 'https://win11react-docs.andrewstech.me/'
+  payload: 'https://windows-porfolio-docs.andrewstech.me/'
 },
 {
   name: 'Yammer',
@@ -124,7 +124,7 @@ var apps = [{
   icon: 'mail',
   type: 'app',
   action: 'EXTERNAL',
-  payload: 'mailto:blueedgetechno@gmail.com'
+  payload: 'mailto:Solomon Shalom Lijo@gmail.com'
 },
 {
   name: 'Movies',
@@ -192,7 +192,7 @@ var apps = [{
   icon: 'pinterest',
   type: 'app',
   action: 'EXTERNAL',
-  payload: 'https://www.pinterest.com/blueedgetechno/'
+  payload: 'https://www.pinterest.com/Solomon Shalom Lijo/'
 },
 {
   name: 'Security',
@@ -225,7 +225,7 @@ var apps = [{
   icon: 'twitter',
   type: 'app',
   action: 'EXTERNAL',
-  payload: 'https://twitter.com/blueedgetechno'
+  payload: 'https://twitter.com/Solomon Shalom Lijo'
 },
 {
   name: 'Teams',
@@ -279,7 +279,7 @@ var apps = [{
   icon: 'github',
   type: 'app',
   action: 'EXTERNAL',
-  payload: 'https://github.com/blueedgetechno/win11React'
+  payload: 'https://github.com/Solomon Shalom Lijo/windows-porfolio'
 },
 {
   name: 'Unescape',

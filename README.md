@@ -1,13 +1,13 @@
 # Win11 in React!
 
-[![Follow me](https://img.shields.io/github/followers/blueedgetechno?label=follow%20me&style=social)](https://github.com/blueedgetechno)
-[![Follow Twitter](https://img.shields.io/twitter/follow/blueedgetechno?label=Follow%20me&style=social)](https://twitter.com/blueedgetechno)
+[![Follow me](https://img.shields.io/github/followers/Solomon Shalom Lijo?label=follow%20me&style=social)](https://github.com/Solomon Shalom Lijo)
+[![Follow Twitter](https://img.shields.io/twitter/follow/Solomon Shalom Lijo?label=Follow%20me&style=social)](https://twitter.com/Solomon Shalom Lijo)
 [![Join](https://img.shields.io/discord/868499076432408627.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/9jtcVZ3tWm)
-[![Build](https://github.com/blueedgetechno/win11React/actions/workflows/deploy.yml/badge.svg?branch=master)](https://github.com/blueedgetechno/win11React/actions/workflows/deploy.yml)
-![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/win11react/status/master/api/win11-react/uptime.json)
-[![translate](https://badges.crowdin.net/win11react/localized.svg)](https://translate.andrewstech.me/)
+[![Build](https://github.com/Solomon Shalom Lijo/windows-porfolio/actions/workflows/deploy.yml/badge.svg?branch=master)](https://github.com/Solomon Shalom Lijo/windows-porfolio/actions/workflows/deploy.yml)
+![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/windows-porfolio/status/master/api/win11-react/uptime.json)
+[![translate](https://badges.crowdin.net/windows-porfolio/localized.svg)](https://translate.andrewstech.me/)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/blueedgetechno)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Solomon Shalom Lijo)
 
 This open source project is made in the hope to replicate the Windows 11 desktop experience on web, using standard web technologies like React, CSS (SCSS), and JS.
 
@@ -17,11 +17,11 @@ This open source project is made in the hope to replicate the Windows 11 desktop
 
 **THIS IS NOT THE APP STORE REPO**
 
-[App Store](https://github.com/win11react/store)
+[App Store](https://github.com/windows-porfolio/store)
 
 **Docs SITE**
 
-https://win11react-docs.andrewstech.me/
+https://windows-porfolio-docs.andrewstech.me/
 
 work in progress 
 
@@ -55,7 +55,7 @@ WHY NOT? Why not just waste a week of your life creating a React project, just t
 - [x] Themes and Background
 - [x] Multilang Support
 
-📑 [suggest more](https://github.com/blueedgetechno/win11React/issues/new/choose)
+📑 [suggest more](https://github.com/Solomon Shalom Lijo/windows-porfolio/issues/new/choose)
 
 # Stack
 
@@ -78,7 +78,7 @@ WHY NOT? Why not just waste a week of your life creating a React project, just t
 
 
 - Can I contribute?
-  - Yes, you can! Open an issue, create a pull request, head over to [discussions](https://github.com/blueedgetechno/win11React/discussions) or join the [discord](https://discord.gg/qmEZwUhb4b).
+  - Yes, you can! Open an issue, create a pull request, head over to [discussions](https://github.com/Solomon Shalom Lijo/windows-porfolio/discussions) or join the [discord](https://discord.gg/qmEZwUhb4b).
 
 
 - Where did you get the inspiration from, if you have?
@@ -93,7 +93,7 @@ WHY NOT? Why not just waste a week of your life creating a React project, just t
 
 # Docker
 
-To use docker use the following command ``` docker run -d  --restart unless-stopped --name win11react -p 3000:3000 blueedge/win11react:latest ```
+To use docker use the following command ``` docker run -d  --restart unless-stopped --name windows-porfolio -p 3000:3000 blueedge/windows-porfolio:latest ```
 
 # Homeassistant
 
@@ -101,34 +101,34 @@ To use docker use the following command ``` docker run -d  --restart unless-stop
 
 # Balena-Cloud
 
-[![balena deploy button](https://www.balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/blueedgetechno/win11React)
+[![balena deploy button](https://www.balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/Solomon Shalom Lijo/windows-porfolio)
 
 --------------------------------------------------------------------------------------------------------
 
 # Compiled
 
-You can find a compiled `.exe` in the **Releases** section or via clicking [HERE](https://github.com/blueedgetechno/win11React/releases)
+You can find a compiled `.exe` in the **Releases** section or via clicking [HERE](https://github.com/Solomon Shalom Lijo/windows-porfolio/releases)
 
 **WINGET - WINDOWS PACKAGE MANAGER**
 
 If you have one of the latest windows builds then you can enter the command below in **CMD**
 
-``` winget install blueedge.win11react ```
+``` winget install blueedge.windows-porfolio ```
 
 
 ## Online Deployment
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fblueedgetechno%2Fwin11React&envs=PORT&PORTDesc=Port+of+the+application&PORTDefault=3000&referralCode=BatemaDevelopment)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FSolomon Shalom Lijo%2Fwindows-porfolio&envs=PORT&PORTDesc=Port+of+the+application&PORTDefault=3000&referralCode=BatemaDevelopment)
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/blueedgetechno/win11React)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Solomon Shalom Lijo/windows-porfolio)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fblueedgetechno%2Fwindows11%2F&project-name=windows11&repo-name=windows11-react&demo-title=Windows%2011%20Demo&demo-description=Static&demo-url=https%3A%2F%2Fwin11.blueedge.me%2F)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FSolomon Shalom Lijo%2Fwindows11%2F&project-name=windows11&repo-name=windows11-react&demo-title=Windows%2011%20Demo&demo-description=Static&demo-url=https%3A%2F%2Fwin11.blueedge.me%2F)
 
 ## Contributors
-<a href="https://github.com/blueedgetechno/win11React/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=blueedgetechno/win11React" />
+<a href="https://github.com/Solomon Shalom Lijo/windows-porfolio/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Solomon Shalom Lijo/windows-porfolio" />
 </a>
 
 ### Known Issues

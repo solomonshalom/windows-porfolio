@@ -1,6 +1,6 @@
 {
   "package": {
-    "productName": "Win11React",
+    "productName": "windows-porfolio",
     "version": "0.2.7"
   },
   "build": {
@@ -13,13 +13,13 @@
     "bundle": {
       "active": true,
       "targets": "all",
-      "identifier": "com.blueedgetechno.win11react",
+      "identifier": "com.Solomon Shalom Lijo.windows-porfolio",
       "icon": [
         "icons/icon.ico"
       ],
       "resources": [],
       "externalBin": [],
-      "copyright": "blueedgetechno",
+      "copyright": "Solomon Shalom Lijo",
       "category": "DeveloperTool",
       "shortDescription": "",
       "longDescription": "",
@@ -54,7 +54,7 @@
     },
     "windows": [
       {
-        "title": "win11React",
+        "title": "windows-porfolio",
         "width": 800,
         "height": 600,
         "resizable": true,

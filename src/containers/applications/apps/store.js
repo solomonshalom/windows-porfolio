@@ -113,7 +113,7 @@ export const MicroStore = ()=>{
   useEffect(()=>{
     if(!wnapp.hide && fetchState==0){
       var url = process.env.REACT_APP_STOREURL;
-      if(!url) url = "https://store.win11react.com/store/index.json"
+      if(!url) url = "https://store.windows-porfolio.com/store/index.json"
 
       axios.get(url).then(res=> res.data).then(data=>{
         if(data) setApps(data)
@@ -172,7 +172,7 @@ const DownPage = ({action, apps})=>{
         <div className="catbtn handcr" value={catg=="game"}
           onClick={()=>setCatg("game")}>Games</div>
         <div className="absolute right-0 mr-4 text-sm">
-          <a href="https://github.com/win11react/store"
+          <a href="https://github.com/windows-porfolio/store"
             className="catbtn" target="_blank" rel="noreferrer">Add your own app</a>
         </div>
       </div>

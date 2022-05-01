@@ -164,7 +164,7 @@ export const WnTerminal = ()=>{
       i18next.changeLanguage("fr-FR");
       tmpStack.push("French");  
     }else if (type=="blue") {
-      tmpStack.push("blueedgetechno");
+      tmpStack.push("Solomon Shalom Lijo");
     }else if (type=="dev") {
       tmpStack.push("https://dev.blueedge.me/");
     }else if (type=="ver") {
@@ -172,7 +172,7 @@ export const WnTerminal = ()=>{
     }else if (type=="systeminfo") {
       var dvInfo = [
         "Host Name:                 BLUE",
-        "OS Name:                   Win11React Dummys Edition",
+        "OS Name:                   windows-porfolio Dummys Edition",
         "OS Version:                10.0.22000 N/A Build 22000.51",
         "OS Manufacturer:           ",
         "OS Configuration:          Standalone Workstation",
