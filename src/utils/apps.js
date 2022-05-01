@@ -60,7 +60,7 @@ var apps = [{
   type: 'app'
 },
 {
-  name: 'Blue',
+  name: 'Solomon Lijo',
   icon: 'win/user',
   type: 'short'
 }, {
