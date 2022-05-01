@@ -45,17 +45,17 @@ export const DScord = ()=>{
           <div className="dsbar w-18">
             <div className="servCont noscroll">
               <Icon className="dsIcon" src="./img/asset/discord.png" ext width={26}
-                    click="EXTERNAL" payload="https://discord.gg/9jtcVZ3tWm"/>
+                    click="EXTERNAL" payload="https://discord.gg/6ADbrPKPdR"/>
               <hr/>
               <Icon className="wnServer svIcon" src="./img/asset/server.gif" width={48}
-                click="EXTERNAL" payload="https://discord.gg/9jtcVZ3tWm" ext/>
+                click="EXTERNAL" payload="https://discord.gg/6ADbrPKPdR" ext/>
               {servers.map((server,i)=>(
                 <Icon key={i} className="svIcon" src={"./img/asset/"+server.src}
                   click="EXTERNAL" payload={server.link} ext width={48}/>
               ))}
             </div>
             <div className="joincont">
-              <a href="https://discord.gg/9jtcVZ3tWm" target="_blank" rel="noreferrer">
+              <a href="https://discord.gg/6ADbrPKPdR" target="_blank" rel="noreferrer">
                 Join
               </a>
             </div>

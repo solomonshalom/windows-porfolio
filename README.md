@@ -1,32 +1,24 @@
 # Win11 in React!
 
-[![Follow me](https://img.shields.io/github/followers/Solomon Shalom Lijo?label=follow%20me&style=social)](https://github.com/Solomon Shalom Lijo)
-[![Follow Twitter](https://img.shields.io/twitter/follow/Solomon Shalom Lijo?label=Follow%20me&style=social)](https://twitter.com/Solomon Shalom Lijo)
-[![Join](https://img.shields.io/discord/868499076432408627.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/9jtcVZ3tWm)
+[![Follow me](https://img.shields.io/github/followers/solomonshalom?label=follow%20me&style=social)](https://github.com/solomonshalom)
+[![Follow Twitter](https://img.shields.io/twitter/follow/shalomlijo?label=Follow%20me&style=social)](https://twitter.com/shalomlijo)
+[![Join](https://img.shields.io/discord/868499076432408627.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/6ADbrPKPdR)
 [![Build](https://github.com/solomonshalom/windows-portfolio/actions/workflows/deploy.yml/badge.svg?branch=master)](https://github.com/solomonshalom/windows-portfolio/actions/workflows/deploy.yml)
 ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/windows-portfolio/status/master/api/win11-react/uptime.json)
 [![translate](https://badges.crowdin.net/windows-portfolio/localized.svg)](https://translate.andrewstech.me/)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Solomon Shalom Lijo)
+[!["Buy Me A Coffee"]([![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R54FIIG))](https://ko-fi.com/solomonlijo)
 
-This open source project is made in the hope to replicate the Windows 11 desktop experience on web, using standard web technologies like React, CSS (SCSS), and JS.
+Hello! Welcome to my newly updated portfolio built with React, CSS, Tailwind and Good'Ol Javascript. 
 
 ## Notice
 >#### This project is **not in anyway affiliated with Microsoft** and **should not be confused with Microsoft’s Operating System** or Products.
 >#### This is also not Windows 365 cloud PC.
 
-**THIS IS NOT THE APP STORE REPO**
-
-[App Store](https://github.com/windows-portfolio/store)
-
-**Docs SITE**
-
-https://windows-portfolio-docs.andrewstech.me/
-
 work in progress 
 
 ------------
- #### Live Experience🌈: [win11.blueedge.me](https://win11.blueedge.me)
+ #### Live Experience🌈: [windows-porfolio.vercel.app](windows-porfolio.vercel.app)
 
 ![home](./public/img/home.jpg)
 
@@ -78,7 +70,7 @@ WHY NOT? Why not just waste a week of your life creating a React project, just t
 
 
 - Can I contribute?
-  - Yes, you can! Open an issue, create a pull request, head over to [discussions](https://github.com/solomonshalom/windows-portfolio/discussions) or join the [discord](https://discord.gg/qmEZwUhb4b).
+  - Yes, you can! Open an issue, create a pull request, head over to [discussions](https://github.com/solomonshalom/windows-portfolio/discussions) or join the [discord](https://discord.gg/6ADbrPKPdR).
 
 
 - Where did you get the inspiration from, if you have?
@@ -86,9 +78,7 @@ WHY NOT? Why not just waste a week of your life creating a React project, just t
 
 
 - What is the answer of Life, the Universe, and Everything?
-  - 42
-
-    ![answer](./public/answer.png)
+  - Jesus Christ
 ## Local Deployment
 
 # Docker
@@ -142,4 +132,4 @@ If you have one of the latest windows builds then you can enter the command belo
 
 ## License
 
-⚖️ CC0-1.0 License
+⚖️ CC0-1.0 License          
